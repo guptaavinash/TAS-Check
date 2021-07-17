@@ -1477,7 +1477,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 0,
@@ -1677,7 +1678,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 0,
@@ -1877,7 +1879,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -2077,7 +2080,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -2217,7 +2221,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -2357,7 +2362,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -2497,7 +2503,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -2857,7 +2864,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -3217,7 +3225,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -3577,7 +3586,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -4157,7 +4167,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -4737,7 +4748,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -5317,7 +5329,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -5537,7 +5550,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -5757,7 +5771,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -6127,7 +6142,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -6397,7 +6413,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -6667,7 +6684,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -6937,7 +6955,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -7137,7 +7156,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -7337,7 +7357,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -7537,7 +7558,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"translator": {
@@ -7836,7 +7858,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"translator": {
@@ -8135,7 +8158,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"translator": {
@@ -8434,7 +8458,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"translator": {
@@ -8723,7 +8748,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"translator": {
@@ -9012,7 +9038,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"translator": {
@@ -9301,7 +9328,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"translator": {
@@ -9630,7 +9658,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"translator": {
@@ -9959,7 +9988,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"translator": {
@@ -10288,7 +10318,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -10678,7 +10709,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -11068,7 +11100,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -11608,7 +11641,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -11868,7 +11902,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -12128,7 +12163,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -12388,7 +12424,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -12588,7 +12625,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -12788,7 +12826,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -12988,7 +13027,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -13288,7 +13328,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -13588,7 +13629,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -14038,7 +14080,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -14178,7 +14221,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -14318,7 +14362,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -14458,7 +14503,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -14818,7 +14864,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -15178,7 +15225,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -15538,7 +15586,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -16247,7 +16296,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -16956,7 +17006,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -17665,7 +17716,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -18325,7 +18377,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -18985,7 +19038,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -19645,7 +19699,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -19865,7 +19920,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -20085,7 +20141,8 @@
 														"recursive": false
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"dataIntegrationUnits": 2,
@@ -20409,7 +20466,8 @@
 														}
 													},
 													"sink": {
-														"type": "AzureSqlSink"
+														"type": "AzureSqlSink",
+														"writeBehavior": "insert"
 													},
 													"enableStaging": false,
 													"translator": {
