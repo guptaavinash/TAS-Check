@@ -1,5 +1,5 @@
 {
-	"name": "Scaledb",
+	"name": "Scaledb_copy1",
 	"properties": {
 		"activities": [
 			{
@@ -15,7 +15,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"storedProcedureName": "[dbo].[Scale_S4]"
+					"storedProcedureName": "[dbo].[Scale_GP_Gen5_8]"
 				},
 				"linkedServiceName": {
 					"referenceName": "TASDatabase",
@@ -24,7 +24,7 @@
 			}
 		],
 		"annotations": [],
-		"lastPublishTime": "2021-07-19T11:19:34Z"
+		"lastPublishTime": "2021-07-16T13:26:29Z"
 	},
 	"type": "Microsoft.DataFactory/factories/pipelines"
 }
